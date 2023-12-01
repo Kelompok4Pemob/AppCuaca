@@ -1,4 +1,4 @@
-![WhatsApp Image 2023-12-02 at 00 17 43_ed1d1dd0](https://github.com/Kelompok4Pemob/poster/assets/151935459/bbeea46f-4ef5-4ca1-93bc-3cfd8bcc601e)     
+![Poster Aplikasi Cuaca](https://github.com/Kelompok4Pemob/poster/assets/151935459/19974c2b-050a-4db7-af58-c322a4c4b13a)  
 
 Aplikasi cuaca adalah perangkat lunak yang dirancang untuk memberikan informasi tentang kondisi cuaca saat ini, ramalan cuaca, dan berbagai informasi terkait cuaca.
 Fungsi-fungsi : 
